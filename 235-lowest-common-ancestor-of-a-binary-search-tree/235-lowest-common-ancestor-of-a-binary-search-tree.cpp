@@ -14,18 +14,17 @@ public:
         if(root==NULL){
             return NULL;
         }
-        if(root->val==p->val || root->val==q->val){
+        if(root->val == p->val || root->val == q->val){
             return root;
         }
-        TreeNode *leftLCA = lowestCommonAncestor(root->left,p,q);
-        TreeNode *rightLCA = lowestCommonAncestor(root->right,p,q);
-        
-        if(leftLCA!=NULL && rightLCA!=NULL){
+        TreeNode *leftAns=lowestCommonAncestor(root->left, p,q);
+        TreeNode *rightAns=lowestCommonAncestor(root->right, p,q);
+        if(leftAns!=NULL && rightAns!=NULL){
             return root;
         }
-        if(leftLCA!=NULL && rightLCA==NULL){
-            return leftLCA;
+        if(leftAns!=NULL && rightAns==NULL){
+            return leftAns;
         }
-        return rightLCA;
+        return rightAns;
     }
 };
