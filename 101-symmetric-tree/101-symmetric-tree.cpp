@@ -11,25 +11,24 @@
  */
 class Solution {
 public:
-    bool isMirror(TreeNode *left, TreeNode *right){
+    bool solve(TreeNode *left, TreeNode *right){
         if(left==NULL && right==NULL){
             return true;
         }
         if(left==NULL || right==NULL){
             return false;
         }
-        if(left->val != right->val){
+        if(left->val!=right->val){
             return false;
         }
-        bool leftAns=isMirror(left->right,right->left);
-        bool rightAns=isMirror(left->left,right->right);
-        
-        return leftAns && rightAns;
+        bool rightSolve=solve(left->left,right->right);
+        bool leftSolve=solve(left->right, right->left);
+        return rightSolve && leftSolve;
     }
     bool isSymmetric(TreeNode* root) {
         if(root==NULL){
             return true;
         }
-        return isMirror(root->left,root->right);
+        return solve(root->left,root->right);
     }
 };
