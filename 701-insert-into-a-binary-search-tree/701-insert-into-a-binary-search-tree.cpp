@@ -15,10 +15,10 @@ public:
         if(root==NULL){
             return new TreeNode(val);
         }
-        if(val<root->val){
+        if(root->val>val){
             root->left=insertIntoBST(root->left,val);
         }
-        else if(val>root->val){
+        else if(root->val<val){
             root->right=insertIntoBST(root->right,val);
         }
         return root;
