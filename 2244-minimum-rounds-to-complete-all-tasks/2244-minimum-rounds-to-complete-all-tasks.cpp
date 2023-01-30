@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
-        sort(tasks.begin(),tasks.end());
         unordered_map<int,int> mp;
         int n=tasks.size();
         for(int i=0;i<n;i++){
