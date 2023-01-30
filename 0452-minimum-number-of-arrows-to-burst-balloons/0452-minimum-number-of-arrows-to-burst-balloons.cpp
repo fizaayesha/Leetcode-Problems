@@ -1,19 +1,15 @@
-class Solution
-{
+class Solution {
 public:
-    int findMinArrowShots(vector<vector<int>> &p)
-    {
-        sort(p.begin(), p.end());
-        int lpoint = p[0][1];
-        int count = 1;
-        for (auto points : p)
-        {
-            if (points[0] > lpoint)
-            {
+    int findMinArrowShots(vector<vector<int>>& points) {
+        int po=points[0][1];
+        int count=1;
+        sort(points.begin(),points.end());
+        for(auto point:points){
+            if(point[0]>po){
                 count++;
-                lpoint = points[1];
+                po=point[1];
             }
-            lpoint = min(points[1], lpoint);
+            po=min(point[1],po);
         }
         return count;
     }
