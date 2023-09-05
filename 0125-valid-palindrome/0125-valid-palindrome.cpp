@@ -27,7 +27,7 @@ public:
                 ans.push_back(s[i]);
             }
         }
-         if(ans.length()==0){
+        if(ans.length()==0){
             return true;
         }
         // cout<<ans<<endl;
