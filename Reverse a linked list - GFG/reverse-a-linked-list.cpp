@@ -37,13 +37,15 @@ class Solution
     {
         // code here
         // return head of reversed list
-        if(head==NULL || head->next==NULL){
+        if (head == nullptr || head->next == nullptr)
+        {
             return head;
         }
-        struct Node *temp=reverseList(head->next);
-        head->next->next=head;
-        head->next=NULL;
-        return temp;
+        struct Node *subll = reverseList(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        return subll;
+
     }
     
 };
