@@ -11,9 +11,24 @@ class Solution
     void sort012(int a[], int n)
     {
         // code here 
-        sort(a,a+n);
+        // sort(a,a+n);
+        int countZ=0,countO=0,countT=0;
+        for(int i=0;i<n;i++){
+            if(a[i]==0)countZ++;
+            if(a[i]==1)countO++;
+            if(a[i]==2)countT++;
+        }
+        int i=0;
+        while(countZ--){
+            a[i++]=0;
+        }
+        while(countO--){
+            a[i++]=1;
+        }
+        while(countT--){
+            a[i++]=2;
+        }
     }
-    
 };
 
 //{ Driver Code Starts.
