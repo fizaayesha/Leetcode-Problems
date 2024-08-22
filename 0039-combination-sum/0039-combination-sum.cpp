@@ -1,9 +1,14 @@
 class Solution {
 public:
     void solve(vector<int> &candidates,int target, int start, vector<int> &demo, vector<vector<int>> &ans){
-        if(target==0){
-            ans.push_back(demo);
+        if (accumulate(demo.begin(), demo.end(), 0) > target) {
+            return;
         }
+        if (accumulate(demo.begin(), demo.end(), 0) == target) {
+            ans.push_back(demo);
+            return;
+        }
+
         for(int i=start;i<candidates.size();i++){
             if(i>start && candidates[i-1]==candidates[i]){
                 continue;
@@ -12,7 +17,7 @@ public:
                 break;
             }
             demo.push_back(candidates[i]);
-            solve(candidates,target-candidates[i],i,demo,ans);
+            solve(candidates,target,i,demo,ans);
             demo.pop_back();
         }
     }
