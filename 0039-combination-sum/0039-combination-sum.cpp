@@ -3,7 +3,6 @@ public:
     void solve(vector<int> &candidates,int target, int start, vector<int> &demo, vector<vector<int>> &ans){
         if(target==0){
             ans.push_back(demo);
-            return;
         }
         for(int i=start;i<candidates.size();i++){
             if(i>start && candidates[i-1]==candidates[i]){
