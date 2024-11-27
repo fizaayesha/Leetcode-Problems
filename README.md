@@ -19,4 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0078-subsets) |
+| [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
+## Math
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
