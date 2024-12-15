@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0078-subsets) |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +55,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
