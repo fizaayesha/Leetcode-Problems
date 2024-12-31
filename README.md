@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
@@ -108,6 +109,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
