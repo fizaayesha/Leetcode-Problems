@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 ## Depth-First Search
 |  |
@@ -111,9 +112,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
