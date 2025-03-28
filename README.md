@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Graph
 |  |
 | ------- |
@@ -87,12 +89,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Shortest Path
 |  |
 | ------- |
@@ -133,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
