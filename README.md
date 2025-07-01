@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [3617-find-the-original-typed-string-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Depth-First Search
 |  |
 | ------- |
