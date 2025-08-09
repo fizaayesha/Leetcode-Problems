@@ -27,16 +27,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
