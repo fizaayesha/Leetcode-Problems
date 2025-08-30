@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 ## String
 |  |
@@ -157,4 +158,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
