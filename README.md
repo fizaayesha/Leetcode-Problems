@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3617-find-the-original-typed-string-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Depth-First Search
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
