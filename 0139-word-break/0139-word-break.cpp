@@ -1,27 +1,20 @@
 class Solution {
 public:
-    bool solveRec(string s, vector<string>& wordDict, int ind, int n, vector<int> &dp){
-        if(ind==n){
-            return true;
-        }
-        if(dp[ind]!=-1){
-            return dp[ind];
-        }
-        string str="";
-        for(int i=ind;i<n;i++){
-            str+=s[i];
-            cout<<str<<" ";
-            if(find(wordDict.begin(),wordDict.end(),str) != wordDict.end()){
-                if(solveRec(s,wordDict,i+1,n,dp)){
-                    return dp[ind]=true;
+    bool solve(string s, vector<string> &word, int n){
+        vector<bool> dp(n+1,false);
+        dp[0]=true;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                string str=s.substr(j,i-j);
+                if(dp[j] && find(word.begin(),word.end(),str)!=word.end()){
+                    dp[i]=true;
+                    break;
                 }
             }
-            cout<<endl;
         }
-        return dp[ind]=false;
+        return dp[n];
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        vector<int> dp(s.length()+1,-1);
-        return solveRec(s,wordDict,0,s.length(),dp);
+        return solve(s,wordDict,s.length());
     }
 };
