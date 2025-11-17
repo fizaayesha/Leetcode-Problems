@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
