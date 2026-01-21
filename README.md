@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 ## String
 |  |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Trie
 |  |
