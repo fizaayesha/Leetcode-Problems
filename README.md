@@ -180,8 +180,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
