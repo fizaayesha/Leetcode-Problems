@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1626-best-team-with-no-conflicts](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1626-best-team-with-no-conflicts) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1626-best-team-with-no-conflicts](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1626-best-team-with-no-conflicts) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1626-best-team-with-no-conflicts) |
 ## Memoization
 |  |
 | ------- |
