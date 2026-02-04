@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-best-team-with-no-conflicts](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1626-best-team-with-no-conflicts) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3640-trionic-array-ii](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1626-best-team-with-no-conflicts](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1626-best-team-with-no-conflicts) |
+| [3640-trionic-array-ii](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Memoization
 |  |
 | ------- |
