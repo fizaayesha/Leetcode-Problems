@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3640-trionic-array-ii](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [3719-longest-balanced-subarray-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/fizaayesha/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/fizaayesha/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -208,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/fizaayesha/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/fizaayesha/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
